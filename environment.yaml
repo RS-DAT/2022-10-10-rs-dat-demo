@@ -2,8 +2,7 @@ name: jupyter_dask
 
 dependencies:
   - python=3.9
-  # pin Dask version until https://github.com/dask/distributed/pull/6841 is released
-  - dask[complete]==2022.7.0
+  - dask[complete]
   - dask-jobqueue
   - jupyterlab>=3
   - dask-labextension
