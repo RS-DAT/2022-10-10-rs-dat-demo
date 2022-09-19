@@ -1,2 +1,3 @@
-# 2022-10-10-rs-dat-demo
-Material for the Remote-Sensing Deployable Analysis environmenT demo
+# RS-DAT demo material 
+
+This repository contains material for the demo of the Remote-Sensing Deployable Analysis environmenT (RS-DAT), to take place at the [Netherlands eScience Center](https://www.esciencecenter.nl) on 2022-10-10. 
