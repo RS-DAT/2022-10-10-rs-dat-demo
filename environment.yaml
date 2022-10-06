@@ -13,12 +13,10 @@ dependencies:
   - gdal
   - xarray
   - rioxarray
-  - xarray-spatial
   - matplotlib 
   - h5netcdf
   - zarr
   - pip
   - pip:
-    - clustering-geodata-cubes
     - stac2dcache
 
